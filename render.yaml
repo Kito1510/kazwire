@@ -1,5 +1,5 @@
 services:
-  - type: static
+  - type: web
     name: Un i-FILTER Proxy
     env: docker
     plan: free

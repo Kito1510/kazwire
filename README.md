@@ -6,7 +6,7 @@
 Kazwire allows you to play your favorite games whenever, wherever you need while also allowing you to browse the web freely and securely! If you like Kazwire please consider giving it a ⭐ on GitHub!
 
 ## Deploy
-<a href="https://render.com/deploy?repo=https://github.com/mochidukiyukimi/Yuki-Youtube-slim">
+<a href="https://render.com/deploy?repo=https://github.com/Kito1510/kazwire/">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 
